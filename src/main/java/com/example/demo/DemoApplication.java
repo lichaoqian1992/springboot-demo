@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * springboot的简单demo3
+ * springboot的简单demo4
  */
 @SpringBootApplication
 public class DemoApplication {
